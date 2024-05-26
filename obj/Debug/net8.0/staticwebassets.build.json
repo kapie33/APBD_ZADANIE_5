@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mmiM5M4AAtXmleAKgbVWq5zILCXNmtJaZbUjVxjwQGA=",
+  "Source": "TripManagementAPI",
+  "BasePath": "_content/TripManagementAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
